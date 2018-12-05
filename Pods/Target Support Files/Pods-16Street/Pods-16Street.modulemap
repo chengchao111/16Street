@@ -1,0 +1,6 @@
+module Pods_16Street {
+  umbrella header "Pods-16Street-umbrella.h"
+
+  export *
+  module * { export * }
+}

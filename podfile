@@ -1,0 +1,17 @@
+target '16Street' do
+platform:ios,'8.0'
+pod 'AFNetworking'
+pod 'MJExtension'
+pod 'MBProgressHUD'
+pod 'Masonry'
+pod 'MJRefresh'
+pod 'SDWebImage'
+pod 'PPNetworkHelper'
+pod 'FMDB'
+pod 'TZImagePickerController'
+pod 'BMKLocationKit'
+pod 'BaiduMapKit', '~> 4.1.0'
+pod 'IQKeyboardManager'
+pod 'JPush'
+pod 'DZNEmptyDataSet'
+end
